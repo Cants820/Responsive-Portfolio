@@ -355,14 +355,19 @@ body {
 
   /*make nav bar align and center*/
   nav a{
-    padding: 10px;
+    padding-left:20px;
     margin-right: 10px;
     font-weight: bold;
   }
   /*sections */
   .main-section {
     margin-top: 5%;
+  }
 
+  .sidebar {
+    padding-left: 20px;
+    margin-left: 30px;
+    
   }
   /*footer*/
   footer {
